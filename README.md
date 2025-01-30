@@ -64,9 +64,9 @@ I'm a passionate developer with a love for creating elegant solutions to complex
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Connect!
 
 <p align="center">
-  <a href="https://medium.com/@boluwatufeadeojo"><img src="https://img.shields.io/badge/-Blog-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"/></a>
-  <a href="https://x.com/bolex396"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/boluwatife-ade-ojo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@boluwatufeadeojo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Blog-FF4088?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+  <a href="https://x.com/bolex396" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/boluwatife-ade-ojo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
