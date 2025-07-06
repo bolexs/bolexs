@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Boluwatife+Ade-ojo;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Boluwatife+Ade-ojo;Welcome+to+my+GitHub!" alt="Typing SVG" />
   
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400" style="display: block; margin: 20px auto;" />
 </div>
@@ -56,7 +56,7 @@ I'm a passionate developer with a love for creating elegant solutions to complex
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bolexs&theme=radical" alt="yourusername" />
+  <img src="https://streak-stats.demolab.com/?user=bolexs&theme=radical" alt="yourusername" />
 </p>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Connect!
@@ -75,15 +75,15 @@ I'm a passionate developer with a love for creating elegant solutions to complex
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/bolexs/bolexs/output/github-contribution-grid-snake-dark.svg?v=1"
+      srcset="https://raw.githubusercontent.com/bolexs/bolexs/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/bolexs/bolexs/output/github-contribution-grid-snake.svg?v=1"
+      srcset="https://raw.githubusercontent.com/bolexs/bolexs/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/bolexs/bolexs/output/github-contribution-grid-snake.svg?v=1"
+      src="https://raw.githubusercontent.com/bolexs/bolexs/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
