@@ -4,15 +4,11 @@
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400" style="display: block; margin: 20px auto;" />
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+---
 
 <h3 align="center">🚀 Software Developer | 💡 Open Source Enthusiast | 🌱 Always Learning</h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+---
 
 <div align="center">
   
@@ -67,9 +63,7 @@ I'm a passionate developer with a love for creating elegant solutions to complex
   <a href="https://www.linkedin.com/in/boluwatife-ade-ojo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+---
 
 <div align="center">
   <picture>
@@ -88,6 +82,4 @@ I'm a passionate developer with a love for creating elegant solutions to complex
   </picture>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+---
