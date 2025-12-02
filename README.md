@@ -55,7 +55,7 @@ Infrastructure engineer with a thing for automation, reliability, and making sys
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bolexs&theme=radical" alt="bolexs GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bolexs&theme=radical" alt="bolexs GitHub Streak"/>
   </a>
 </p>
 
